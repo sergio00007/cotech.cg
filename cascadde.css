@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+
+  /* BEGIN (write your solution here) */
+  font-size: 18px;
+  color: #333;
+
+  /* END */
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+h1 {
+  /* BEGIN (write your solution here) */
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 60px;
+  text-align: center;
+
+  /* END */
+}
+
+h2 {
+  /* BEGIN (write your solution here) */
+  margin-top: 0px;
+  padding-bottom: 30px;
+  font-size: 25px;
+  text-align: center;
+
+  /* END */
+}
+
+main > section > h2 {
+  width: 900px;
+  margin: auto;
+  padding: 0px;
+  text-align: left;
+  border: none;
+}
+
+section {
+  /* BEGIN (write your solution here) */
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  /* END */
+}
+li {
+  margin-bottom: 10px;
+}
